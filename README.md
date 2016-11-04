@@ -1,2 +1,2 @@
-# HBase-Social-Network
-Social Network in HBase
+# Hadoop
+Hadoop HBase Social Network
